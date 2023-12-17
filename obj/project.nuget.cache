@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dARpi705ZtY8+kK6XqoXaggvf2L/Kj/hAa3d+ljsPUHBW0ZCEfe6Zp8NBUgcDuI9ojJGxy8zF+rWlxs29Gn4tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackc\\source\\repos\\cis285finalprojectbackup\\cis285finalproject\\cis285finalproject\\cis285finalproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
