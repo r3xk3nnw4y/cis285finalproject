@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Resources\imgnotdone %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="RectpackSharp\RectpackSharp.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="RectpackSharp\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Remove="RectpackSharp\obj\Debug\net7.0\RectpackSharp.AssemblyInfo.cs" />
+    <Compile Remove="RectpackSharp\obj\Debug\netstandard2.0\.NETStandard,Version=v2.0.AssemblyAttributes.cs" />
+    <Compile Remove="RectpackSharp\obj\Debug\netstandard2.0\RectpackSharp.AssemblyInfo.cs" />
+    <Compile Remove="RectpackSharp\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.cs" />
+    <Compile Remove="RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.AssemblyInfo.cs" />
+    <Compile Remove="RectpackSharp\PackingException.cs" />
+    <Compile Remove="RectpackSharp\PackingHints.cs" />
+    <Compile Remove="RectpackSharp\PackingRectangle.cs" />
+    <Compile Remove="RectpackSharp\RectanglePacker.cs" />
+  </ItemGroup>
+</Project>

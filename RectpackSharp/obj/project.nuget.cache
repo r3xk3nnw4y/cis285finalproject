@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+sM/9W6So9RogOhh9zxJmqqNrSZCJ4f5oFt8MZgAG2XA1rO4urRcrOgiDz+ApIiRwpPg2kO3QBc5szzW8E9aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackc\\source\\repos\\cis285finalprojectbackup\\cis285finalproject\\cis285finalproject\\RectpackSharp\\RectpackSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

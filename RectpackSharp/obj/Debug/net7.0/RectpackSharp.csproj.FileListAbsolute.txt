@@ -1,0 +1,15 @@
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\net7.0\RectpackSharp.dll
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\net7.0\RectpackSharp.pdb
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\net7.0\RectpackSharp.xml
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.csproj.AssemblyReference.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.AssemblyInfo.cs
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.csproj.CopyComplete
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.dll
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\refint\RectpackSharp.dll
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.xml
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\RectpackSharp.pdb
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\net7.0\RectpackSharp.deps.json
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\net7.0\ref\RectpackSharp.dll

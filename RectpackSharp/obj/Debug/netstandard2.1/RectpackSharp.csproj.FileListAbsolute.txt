@@ -1,0 +1,13 @@
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\netstandard2.1\RectpackSharp.deps.json
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\netstandard2.1\RectpackSharp.dll
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\netstandard2.1\RectpackSharp.pdb
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\bin\Debug\netstandard2.1\RectpackSharp.xml
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.csproj.AssemblyReference.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.AssemblyInfoInputs.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.AssemblyInfo.cs
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.csproj.CoreCompileInputs.cache
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.csproj.CopyComplete
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.dll
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.xml
+C:\Users\jackc\source\repos\cis285finalprojectbackup\cis285finalproject\cis285finalproject\RectpackSharp\obj\Debug\netstandard2.1\RectpackSharp.pdb
